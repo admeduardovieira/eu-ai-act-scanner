@@ -4,10 +4,13 @@
 [![npm version](https://img.shields.io/npm/v/eu-ai-act-scanner.svg)](https://www.npmjs.com/package/eu-ai-act-scanner)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Pro Plan](https://img.shields.io/badge/Pro_Plan-€29%2Fmo-brightgreen)](https://arkforge.tech/en/scanner-pro.html?utm_source=github&utm_medium=readme&utm_campaign=eu_ai_act_scanner)
 
 **Scan your codebase for AI framework usage and check EU AI Act + GDPR compliance in seconds.**
 
 Zero dependencies. Works offline. Detects 26 AI frameworks including OpenAI, Anthropic, LangChain, HuggingFace, and more.
+
+**[→ Audit-ready compliance reports + certified proofs](https://arkforge.tech/en/scanner-pro.html?utm_source=github&utm_medium=readme&utm_campaign=eu_ai_act_scanner)** — Pro plan from €29/mo.
 
 ## Quick Start
 
@@ -178,4 +181,4 @@ Issues and PRs welcome at [github.com/ark-forge/eu-ai-act-scanner](https://githu
 
 ## License
 
-MIT — Built by [ArkForge](https://arkforge.fr)
+MIT — Built by [ArkForge](https://arkforge.tech?utm_source=github&utm_medium=readme)
